@@ -47,15 +47,10 @@ Write the detailed procedure here
 # Program:
 ```
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
-
-Developed by: Monisha T
-RegisterNumber:  212221240029
-
-```
-
+~~~
+Developed by: RAGUL VK
+RegisterNumber:  212221240043
 ##  F=((C'.B.A)'(D'.C.A)'(C.B'.A)')' using NAND gate
-```
-
 module Combination(A,B,C,D,F);
 input A,B,C,D;
 output F;
